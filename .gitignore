@@ -1,0 +1,5 @@
+# secrets live here; .env is committed without them
+.env.local
+.venv/
+__pycache__/
+.DS_Store

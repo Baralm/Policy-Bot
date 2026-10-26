@@ -1,0 +1,6 @@
+openai>=2.0.0
+python-dotenv>=1.0.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+# only needed when FOUNDRY_API_KEY is empty (Entra ID auth)
+azure-identity>=1.17.0
